@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    ucsb.cs174a: DEBUG
